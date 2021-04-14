@@ -13,11 +13,11 @@ We are going to explore and answer two questions:
 
 ## Conclusion
 
-- the most frequent genres during all years are counted. The number of Drama, Comedy and Thriller genres are the most frequent ones during all year.
-- It shows that in 1960, Drama, Horror and Thriller are most popular genres with popularity of 2.610362.
-- James Cameron from 1984 to 2009 has had eight highest_grossing movies.
-- Drama,Comedy,Thriller, and Action are top genres.
-- It shows a bounch of high revenue movies are produced in Universal Pictures, Warner Bros. and aramount Pictures companies.
-- It shows Robert De Niro with 60 movies is the top actor. Following him, Bruce Willis and Samuel L. Jackson come.
+- The most frequent genres during all years are counted. The number of Drama, Comedy, and Thriller genres are the most frequent ones during all year.
+- It shows that in 1960, Drama, Horror, and Thriller are the most popular genres with a popularity of 2.610362.
+- James Cameron, from 1984 to 2009, has had eight highest_grossing movies.
+- Drama, Comedy, Thriller, and Action are top genres.
+- It shows many high revenue movies are produced in Universal Pictures, Warner Bros., and aramount Pictures companies.
+- It shows Robert De Niro, with 60 movies, is the top actor. Following him, Bruce Willis and Samuel L. Jackson come.
 - Steven Spielberg has the most number of movies with high revenue among directors. He is followed by Clint Eastwood, Woody Allen, Ridley Scott.
 
